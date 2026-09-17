@@ -10,5 +10,7 @@ static class Program {
         // see https://aka.ms/applicationconfiguration.
         ApplicationConfiguration.Initialize();
         Application.Run(new GroupProject1Form());
+        //TEST FOR COMMIT
+        Console.Write("Test");
     }
 }
